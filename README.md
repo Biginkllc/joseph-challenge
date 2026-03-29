@@ -88,3 +88,16 @@ They will become providers, guides, and anchors for others.
 
 Prepare during calm… so you can sustain others during strain.
 
+---
+
+## Explore Further
+
+For those who want to go deeper:
+
+* 📄 **Deep Dive Framework**
+  `Docs/Joseph_Challenge.md`
+
+* ⚓ **Harbor Drop (Origin + Intent)**
+  `Harbor/Harbor_Drop_001_Joseph_Challenge.md`
+
+---
